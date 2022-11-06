@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552559290885",
+    "project_id": "twitterbloc-d7632",
+    "storage_bucket": "twitterbloc-d7632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552559290885:android:143ddd425f947d1e0d8a6c",
+        "android_client_info": {
+          "package_name": "com.example.twitter_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552559290885-m7cqdb0jpfghrs6i7t6lesfl69577u95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCwKXBgOuG_WsqND_KPuGE92Ts_4DfOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552559290885-m7cqdb0jpfghrs6i7t6lesfl69577u95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
